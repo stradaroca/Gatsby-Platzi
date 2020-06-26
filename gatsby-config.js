@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Platziswag`,
-    description: `Proyecto Gatsby en Platzi`,
+    description: `El mejor swag de Platzi disponible para ti.`,
     author: `@abdias32`,
   },
   plugins: [
